@@ -9,8 +9,8 @@ Welcome to **VibeCast V3**, the next-generation music player designed to make yo
 - **Sleek and Modern UI** – Minimalist design focused on usability and aesthetics.
 - **High-Quality Audio Playback** – Supports multiple audio formats.
 - **Playlist Management** – Create, edit, and shuffle playlists with ease.
-- **Customizable Themes** – Light, dark, and future custom theme support.
-- **Smooth Navigation** – Quickly browse your library and control playback.
+- **Customizable Themes** – Light, dark, and future custom theme support. (WIP)
+- **Smooth Navigation** – Quickly browse your library and control playback. (WIP)
 - **Upcoming Features** – Online streaming, and AI-based song recommendations, More to Come.
 
 ---
