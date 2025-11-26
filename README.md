@@ -1,6 +1,6 @@
 # 🎵 VibeCast V3
 
-Welcome to **VibeCast V3**, the next-generation music player designed to make your listening experience seamless, personalized, and full of vibes. Whether you're chilling, working, or partying, VibeCast V3 brings your favorite tracks to life.
+Welcome to **VibeCast V3**, the next-generation music player designed to make your listening experience seamless, personalized, and full of vibes. Whether you're chilling, working, or partying, VibeCast V3 brings your favorite tracks to life. (PC ONLY FOR NOW)
 
 ---
 
