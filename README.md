@@ -24,6 +24,6 @@ Welcome to **VibeCast V3**, the next-generation music player designed to make yo
 
 ---
 
-## 📂 Installation
+## 🌐 Website
 
-1. Simply Download it at: https://github.com/Panther4242/VibeCast-V3/releases:
+1. If you're looking for the official website, you can find it right here: https://vibecastv3.win
