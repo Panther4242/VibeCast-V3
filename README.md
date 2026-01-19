@@ -1,5 +1,7 @@
 # 🎵 VibeCast V3
 
+Github Page still under WIP
+
 A next-generation desktop music player with a sleek interface and personalized listening experience.
 
 Currently Windows-only.
