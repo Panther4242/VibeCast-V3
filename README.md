@@ -34,3 +34,4 @@ Currently Windows-only.
 ## 🌐 Website
 
 1. If you're looking for the official website, you can find it right here: https://vibecastv3.win
+2. if you want the updated GitHub page: panther4242.github.io/VibeCast-V3
