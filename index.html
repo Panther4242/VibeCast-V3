@@ -187,6 +187,48 @@
     transform: translateY(-2px);
   }
 
+  /* ── V4 BUTTON ── */
+  .btn-v4 {
+    background: linear-gradient(135deg, #9b45e4 0%, #c77dff 60%, #e0aaff 100%);
+    color: #fff;
+    font-weight: 700;
+    border-radius: 2px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 18px rgba(199,125,255,0.35), 0 0 40px rgba(155,69,228,0.15);
+    animation: fadeUp 0.7s ease both 0.45s, v4Pulse 2.8s ease-in-out infinite;
+  }
+
+  .btn-v4::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(255,255,255,0.18) 0%, transparent 60%);
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+
+  .btn-v4:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0 28px rgba(199,125,255,0.6), 0 0 60px rgba(155,69,228,0.3);
+    filter: brightness(1.1);
+  }
+  .btn-v4:hover::before { opacity: 1; }
+
+  .btn-v4 .v4-badge {
+    font-size: 0.55rem;
+    background: rgba(255,255,255,0.22);
+    border-radius: 2px;
+    padding: 0.1rem 0.35rem;
+    letter-spacing: 0.08em;
+    margin-left: 0.1rem;
+  }
+
+  @keyframes v4Pulse {
+    0%, 100% { box-shadow: 0 0 18px rgba(199,125,255,0.35), 0 0 40px rgba(155,69,228,0.15); }
+    50%       { box-shadow: 0 0 28px rgba(199,125,255,0.55), 0 0 60px rgba(155,69,228,0.28); }
+  }
+
   /* ── VISUALIZER ── */
   .visualizer {
     display: flex;
@@ -326,7 +368,8 @@
     border: 1px solid var(--border);
   }
   .soon-tag.hot { background: rgba(255,61,113,0.08); color: var(--accent2); border-color: rgba(255,61,113,0.2); }
-  .soon-tag.ai { background: rgba(199,125,255,0.08); color: var(--accent3); border-color: rgba(199,125,255,0.2); }
+  .soon-tag.ai  { background: rgba(199,125,255,0.08); color: var(--accent3); border-color: rgba(199,125,255,0.2); }
+  .soon-tag.v4  { background: rgba(199,125,255,0.12); color: var(--accent3); border-color: rgba(199,125,255,0.35); animation: v4Pulse 2.8s ease-in-out infinite; }
 
   /* ── TECH STACK ── */
   .tech-grid {
@@ -422,6 +465,10 @@
       <h1 class="hero-title">Vibe<span>Cast</span><br>V3</h1>
       <p class="hero-sub">A next-generation desktop music player with a sleek interface and a personalized listening experience. Built for people who take their audio seriously.</p>
       <div class="cta-row">
+        <a href="https://github.com/Panther4242/VibeCast-V3/releases/latest" class="btn btn-v4">
+          ⬇ Download V4 Beta
+          <span class="v4-badge">NEW</span>
+        </a>
         <a href="https://vibecastv3.win" class="btn btn-primary">🌐 Visit Website</a>
         <a href="#features" class="btn btn-ghost">Explore Features ↓</a>
       </div>
@@ -499,6 +546,11 @@
         <span class="soon-num">04</span>
         <span class="soon-name">Cross-Platform Support</span>
         <span class="soon-tag">Soon</span>
+      </div>
+      <div class="soon-item">
+        <span class="soon-num">05</span>
+        <span class="soon-name">VibeCast V4 — Full Rewrite</span>
+        <span class="soon-tag v4">V4</span>
       </div>
     </div>
   </section>
