@@ -2,7 +2,7 @@
 
 > ⚠️ **Work in Progress** — V4 is currently in active development. Expect breaking changes and incomplete features.
 
-A ground-up rewrite of VibeCast. Faster, cleaner, and built right — with a completely redesigned UI and no more memory leaks.
+A ground-up rewrite of VibeCast V3. Faster, cleaner, and built right — with a completely redesigned UI and no more memory leaks.
 
 Currently Windows-only.
 
@@ -61,7 +61,7 @@ In the meantime, you can download the latest stable release of **VibeCast V3**:
 
 - **UI**: WPF (C#) — fully custom-styled, no default Windows chrome
 - **Audio Engine**: NAudio / .NET Audio pipeline
-- **Framework**: .NET 6+
+- **Framework**: .NET 10.0
 - **Platform**: Windows 10/11
 
 ---
