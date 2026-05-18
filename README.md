@@ -16,10 +16,10 @@ Currently Windows-only.
 - **Theme Support** - Light and dark modes (WIP)
   
 ### 🔜 Coming Soon
-- **Online Streaming Integration**
-- **AI-Powered Recommendations**
-- **Custom Theme Engine**
-- **Cross-Platform Support**
+- **Online Streaming Integration** (Discontinued)
+- **AI-Powered Recommendations** (Discontinued)
+- **Custom Theme Engine** (Discontinued)
+- **Cross-Platform Support** (Discontinued)
 ---
 
 ## 🛠️ Technologies Used
