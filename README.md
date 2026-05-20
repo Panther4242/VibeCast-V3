@@ -22,7 +22,7 @@ Currently Windows-only.
 - **Cross-Platform Support** (Discontinued)
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ V3 Technologies Used
 
 - **Frontend**: WPF / WinForms (C#)
 - **Backend**: .NET Framework / .NET 6+
