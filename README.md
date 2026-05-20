@@ -16,9 +16,9 @@ Currently Windows-only.
 - **Theme Support** - Light and dark modes (WIP)
   
 ### 🔜 Coming Soon
-- **Online Streaming Integration** (Discontinued)
+- **Online Streaming Integration** (Only for V4)
 - **AI-Powered Recommendations** (Discontinued)
-- **Custom Theme Engine** (Discontinued)
+- **Custom Theme Engine** (Only for V4)
 - **Cross-Platform Support** (Discontinued)
 ---
 
@@ -29,6 +29,12 @@ Currently Windows-only.
 - **Audio Processing**: NAudio
 - **Persistence**: JSON / SQLite for playlists and settings
 
+## 🛠️ V4 Technologies Used
+- **Frontend**: WPF / WinForms (C#)
+- **Backend**: .NET Framework / .NET 10.0
+- **Audio Processing**: NAudio
+- **Persistence**: JSON / SQLite for playlists and settings
+  
 ---
 
 ## 🌐 Website
