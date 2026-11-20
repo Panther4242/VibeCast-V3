@@ -1,6 +1,6 @@
-# 🎵 VibeCast V4
+# VibeCast V4
 
-> ⚠️ **Work in Progress** - V4 is currently in active development. Expect breaking changes and incomplete features.
+**Work in Progress** - V4 is currently in active development. Expect breaking changes and incomplete features.
 
 A ground-up rewrite of VibeCast V3. Faster, cleaner, and built right - with a completely redesigned UI and no more memory leaks.
 
@@ -8,9 +8,9 @@ Currently Windows-only.
 
 ---
 
-## ✨ What's New in V4
+## What's New in V4
 
-### 🎨 Brand New UI
+### Brand New UI
 The entire interface has been rebuilt from scratch. Every window, every panel, every interaction - redesigned with a modern dark aesthetic, smoother animations, and a consistent visual language throughout.
 
 - Fully redesigned main player, mini player, and playlist windows
@@ -19,12 +19,12 @@ The entire interface has been rebuilt from scratch. Every window, every panel, e
 - Gradient borders, glass-style overlays, and refined typography
 - Custom confirmation dialogs that match the app's look and feel
 
-### 🔧 No More Memory Leaks
+### No More Memory Leaks
 V3 had memory management issues that caused the app to bloat over long sessions. V4 fixes this with a complete rewrite of the audio and playback engine - sessions stay lean no matter how long you run it.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Redesigned UI** - Clean, modern interface built from scratch
 - **Mini Player** - Compact overlay mode with full controls
@@ -38,7 +38,7 @@ V3 had memory management issues that caused the app to bloat over long sessions.
 
 ---
 
-## 🔜 Coming Soon
+## Coming Soon
 
 - **Online Streaming Integration**
 - **AI-Powered Recommendations**
@@ -47,17 +47,17 @@ V3 had memory management issues that caused the app to bloat over long sessions.
 
 ---
 
-## 📥 Download
+## Download
 
 V4 is not yet available for public download.
 
 In the meantime, you can download the latest stable release of **VibeCast V3**:
 
-👉 [**Download VibeCast V3**](https://github.com/Panther4242/VibeCast-V3/releases/latest)
+ [**Download VibeCast V3**](https://github.com/Panther4242/VibeCast-V3/releases/latest)
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - **UI**: WPF (C#) - fully custom-styled, no default Windows chrome
 - **Audio Engine**: NAudio / .NET Audio pipeline
@@ -66,19 +66,20 @@ In the meantime, you can download the latest stable release of **VibeCast V3**:
 
 ---
 
-## 📌 Status
+## Status
 
 | Component         | Status        |
 |-------------------|---------------|
-| New UI            | ✅ Semi-Complete |
-| Memory Leak Fixes | ✅ Complete    |
-| Mini Player       | ✅ In Progress |
-| Streaming         | ✅ Complete    |
-| Cross-Platform    | 🔜 Planned    |
+| New UI            | ✅ Complete |
+| Memory Leak Fixes | ✅ Complete |
+| Mini Player       | ✅ Complete |
+| Streaming         | ✅ Complete |
+| Cross-Platform    | ✅ Complete |
+| Much More |
 
 ---
 
-## 📄 License
+## License
 
 [MIT License](LICENSE)
 
