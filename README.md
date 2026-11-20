@@ -1,4 +1,4 @@
-# 🎵 VibeCast V3
+# VibeCast V3
 
 (Github Page still WIP)
 
@@ -8,28 +8,28 @@ Currently Windows-only.
 
 ---
 
-## 🚀 Features
+## Features
 - **Modern, Intuitive UI** - Clean, minimalist design focused on usability
 - **High-Quality Audio** - Supports MP3, FLAC, WAV, and more
 - **Smart Playlist Management** - Create, edit, and organize playlists with drag-and-drop
 - **Playback Controls** - Play, pause, skip, shuffle, and repeat
 - **Theme Support** - Light and dark modes (WIP)
   
-### 🔜 Coming Soon
+### Coming Soon
 - **Online Streaming Integration** (Only for V4)
 - **AI-Powered Recommendations** (Discontinued)
 - **Custom Theme Engine** (Only for V4)
 - **Cross-Platform Support** (Discontinued)
 ---
 
-## 🛠️ V3 Technologies Used
+## V3 Technologies Used
 
 - **Frontend**: WPF / WinForms (C#)
 - **Backend**: .NET Framework / .NET 6+
 - **Audio Processing**: NAudio
 - **Persistence**: JSON / SQLite for playlists and settings
 
-## 🛠️ V4 Technologies Used
+## V4 Technologies Used
 - **Frontend**: WPF / WinForms (C#)
 - **Backend**: .NET Framework / .NET 10.0
 - **Audio Processing**: NAudio
@@ -37,7 +37,6 @@ Currently Windows-only.
   
 ---
 
-## 🌐 Website
+## Website
 
 1. If you're looking for the official website, you can find it right here: https://vibecastv3.win
-2. if you want the updated GitHub page: https://panther4242.github.io/VibeCast-V3
